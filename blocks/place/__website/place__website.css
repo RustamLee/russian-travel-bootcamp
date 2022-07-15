@@ -1,0 +1,16 @@
+.place__website {
+  list-style-type: none;
+  color: #FFFFFF;
+  padding: 0;
+  margin-left: 16px;
+  margin-bottom: 32px;
+  margin-top: 0;
+  align-self: end;
+}
+
+@media(min-width:768px){
+  .place__website {
+  margin-left: 0;
+  margin-bottom: 0;
+  }
+}

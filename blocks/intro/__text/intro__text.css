@@ -1,0 +1,11 @@
+.intro__text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+  margin: 0;
+}
+@media(min-width:768px){
+  .intro__text {
+    line-height: 161%;
+  }
+}

@@ -1,0 +1,15 @@
+.place__texts {
+  margin: 0 16px 25px 16px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+}
+
+@media(min-width:768px){
+  .place__texts {
+    align-self: start;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

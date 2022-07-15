@@ -1,0 +1,26 @@
+.map__subtitle {
+  text-align: center;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 15px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+@media(min-width:768px){
+  .map__subtitle {
+    margin-top: 32px;
+    font-size: 30px;
+    line-height: 36px;
+    max-width: 640px;
+    margin-bottom: 0;
+  }
+}
+
+@media(min-width:1024px){
+  .map__subtitle {
+    line-height: 36px;
+    margin-top: 32px;
+  }
+}

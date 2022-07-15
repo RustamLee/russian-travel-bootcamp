@@ -1,0 +1,31 @@
+.map__title {
+  text-align: center;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 44px;
+  margin-bottom: 0;
+  padding-left: 16px;
+  padding-right: 16px;
+  max-width: 100%;
+
+}
+@media(min-width:768px) {
+  .map__title {
+    font-size: 96px;
+    line-height: 100px;
+    margin-top: 48px;
+  }
+}
+
+@media(min-width:1024px){
+  .map__title {
+    margin-top: 48px;
+  }
+}
+
+@media(min-width:1280px){
+  .map__title {
+    margin-top: 56px;
+  }
+}

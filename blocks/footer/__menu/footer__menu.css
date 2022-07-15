@@ -1,0 +1,16 @@
+.footer__menu {
+  margin-left: 16px;
+  margin-top: 64px;
+}
+
+@media(min-width:768px) {
+  .footer__menu {
+    margin:0;
+  }
+}
+
+@media(min-width:1024px) {
+  .footer__menu {
+
+  }
+}

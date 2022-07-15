@@ -1,0 +1,8 @@
+.cover__image-link {
+  text-decoration: none;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}

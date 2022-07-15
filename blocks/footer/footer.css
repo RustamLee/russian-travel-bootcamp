@@ -1,0 +1,20 @@
+@media(min-width:768px){
+.footer{
+  display: flex;
+  justify-content: space-between;
+}
+
+  .footer{
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-bottom: 24px;
+  }
+}
+
+@media(min-width:768px){
+  .footer{
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 24px;
+  }
+}

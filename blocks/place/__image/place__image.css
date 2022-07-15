@@ -1,0 +1,11 @@
+.place__image {
+  width: 100%;
+  margin-bottom: 26px;
+}
+
+@media(min-width:768px){
+  .place__image {
+    align-self: start;
+    margin-bottom: 0;
+  }
+}

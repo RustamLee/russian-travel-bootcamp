@@ -1,0 +1,12 @@
+.place__website-heading {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+  margin-bottom: 12px;
+  margin-top: 0;
+  text-transform: uppercase;
+  align-items: flex-start;
+}
+
+

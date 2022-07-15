@@ -1,0 +1,22 @@
+.map__picture {
+  margin-top: 27px;
+  max-width: 100%;
+}
+@media(min-width:768px) {
+  .map__picture {
+    margin-top: 56px;
+    object-fit: cover;
+  }
+}
+
+@media(min-width:1024px){
+  .map__picture {
+    margin-top: 56px;
+  }
+}
+
+@media(min-width:1280px){
+  .map__picture {
+margin-top: 64px;
+  }
+}

@@ -1,0 +1,20 @@
+.footer__menu-link-copyright {
+  margin-bottom: 24px;
+  font-size: 14px;
+  line-height: 14px;
+  margin-left: 16px;
+}
+
+@media(min-width:768px){
+  .footer__menu-link-copyright {
+    display: flex;
+    line-height: 16px;
+    margin: 0;
+  }
+}
+
+@media(min-width:1024px){
+  .footer__menu-link-copyright {
+
+  }
+}

@@ -1,0 +1,21 @@
+.map{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+@media(min-width:1024px){
+.map{
+  max-width: 928px;
+  margin-left: auto;
+  margin-right: auto;
+}
+}
+
+@media(min-width:1280px){
+  .map{
+    max-width: 984px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  }

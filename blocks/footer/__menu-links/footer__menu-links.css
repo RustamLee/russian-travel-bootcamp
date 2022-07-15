@@ -1,0 +1,12 @@
+.footer__menu-links {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 48px;
+}
+
+@media(min-width:768px){
+  .footer__menu-links {
+    display: flex;
+    margin:0;
+  }
+}

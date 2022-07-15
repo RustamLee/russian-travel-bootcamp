@@ -1,0 +1,9 @@
+.intro__table-fact {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+@media(min-width:768px){
+  .intro__table-fact {
+    margin-left: 0;
+  }
+}

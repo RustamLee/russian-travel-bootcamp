@@ -1,0 +1,21 @@
+.intro__table {
+  list-style-type: none;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+  padding: 0;
+  margin-top: 33px;
+  margin-bottom: 64px;
+}
+
+@media(min-width:768px){
+  .intro__table{
+    margin-bottom: 90px;
+  }
+}
+
+@media(min-width:1280px){
+  .intro__table {
+    margin-bottom: 92px;
+  }
+}

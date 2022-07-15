@@ -1,0 +1,9 @@
+.footer__menu-links-item {
+  margin-bottom: 23px;
+}
+
+@media(min-width:768px){
+  .footer__menu-links-item{
+    margin-bottom: 0;
+  }
+}

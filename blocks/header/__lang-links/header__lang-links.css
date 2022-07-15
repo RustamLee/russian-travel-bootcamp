@@ -1,0 +1,21 @@
+.header__lang-links {
+  list-style-type: none;
+  text-decoration: none;
+  display: flex;
+  margin-right: 14px;
+  margin-top: 26px;
+  margin-bottom: 0;
+  padding: 0;
+}
+@media(min-width:768px){
+  .header__lang-links {
+    margin-right: 24px;
+    margin-top: 42px;
+  }
+}
+
+@media(min-width:1024px){
+  .header__lang-links {
+    margin-right: 47px;
+  }
+}
