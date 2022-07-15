@@ -18,12 +18,6 @@
   }
 }
 
-@media(min-width:1024px){
-  .map__title {
-    margin-top: 48px;
-  }
-}
-
 @media(min-width:1280px){
   .map__title {
     margin-top: 56px;

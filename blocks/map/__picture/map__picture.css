@@ -9,12 +9,6 @@
   }
 }
 
-@media(min-width:1024px){
-  .map__picture {
-    margin-top: 56px;
-  }
-}
-
 @media(min-width:1280px){
   .map__picture {
 margin-top: 64px;
