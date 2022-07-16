@@ -5,6 +5,7 @@
   font-size: 40px;
   line-height: 44px;
   margin-bottom: 0;
+  margin-top: 48px;
   padding-left: 16px;
   padding-right: 16px;
   max-width: 100%;
@@ -14,7 +15,6 @@
   .map__title {
     font-size: 96px;
     line-height: 100px;
-    margin-top: 48px;
   }
 }
 

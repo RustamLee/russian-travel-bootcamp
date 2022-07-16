@@ -2,8 +2,16 @@
   margin-bottom: 23px;
 }
 
+.footer__menu-links-item:last-child{
+  margin-bottom: 0;
+}
+
 @media(min-width:768px){
   .footer__menu-links-item{
     margin-bottom: 0;
+    margin-right: 18px;
+  }
+  .footer__menu-links-item:last-child{
+    margin-right: 0;
   }
 }

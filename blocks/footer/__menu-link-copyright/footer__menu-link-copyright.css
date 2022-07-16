@@ -1,8 +1,7 @@
 .footer__menu-link-copyright {
-  margin-bottom: 24px;
   font-size: 14px;
   line-height: 14px;
-  margin-left: 16px;
+  margin: 0;
 }
 
 @media(min-width:768px){

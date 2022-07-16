@@ -4,14 +4,18 @@
   margin-bottom: 32px;
   color: #FFFFFF;
   text-decoration: none;
+  transition: 500ms linear;
 }
 
-@media(min-width:768px){
+.footer__menu-link:hover {
+  opacity: 0.4;
+}
+
+@media(min-width:768px) {
   .footer__menu-link {
     font-size: 16px;
     line-height: 18px;
     display: inline;
-    margin-right: 18px;
     margin-bottom: 0;
   }
 }

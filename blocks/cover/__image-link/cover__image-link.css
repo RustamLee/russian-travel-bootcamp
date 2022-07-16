@@ -3,6 +3,26 @@
   color: #FFFFFF;
   display: flex;
   justify-content: center;
-  align-content: center;
   flex-direction: column;
+  min-height: 200px;
+  width: 100%;
+  align-items: center;
+}
+
+@media(min-width:768px){
+  .cover__image-link{
+  min-height: 480px;
+}
+}
+
+@media(min-width:1024px){
+  .cover__image-link{
+  min-height: 640px;
+}
+}
+
+@media(min-width:1280px){
+  .cover__image-link{
+  min-height: 740px;
+}
 }

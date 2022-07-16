@@ -8,6 +8,11 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 20px;
+  transition: 500ms linear;
+}
+
+.header__lang-link:hover{
+  opacity: 0.4;
 }
 
 @media(min-width:768px){
