@@ -1,27 +1,19 @@
-# Проект: Путешествие по России
+# Russian Travel Guide
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+## Overview
+This project showcases a travel guide to Russia with responsive web design based on a Figma template. It features adaptive layouts using media queries, ensuring compatibility across screen sizes.
 
-**Интро**
+## Figma
+Link to the Figma template: [Figma link]
 
-Это проект о путешествии по России, адаптивная верстка по макету из Фигма.
+## Technologies Used
+- HTML5
+- CSS3 (with media queries)
+- CSS Grid
+- BEM methodology
 
-**Figma**
+## Technical Requirements
+The layout is designed for the following screen resolutions: 320px, 786px, 1024px, 1280px.
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Инструменты и технологии**
-HTML верстка.
-CSS (с медиазапросами).
-Grid.
-Методология БЭМ.
-
-**Технические требования**
-Специальных требований нет.
-Вертска реализована для разрешений экранов: 320 / 786 / 1024 / 1280.
-
-**Ссылка на проект**
-rustamlee.github.io/russian-travel-bootcamp/
+## Project Link
+[Live Project](https://rustamlee.github.io/russian-travel-bootcamp/)
